@@ -1,0 +1,11 @@
+cache/
+contrib/
+results/
+server_state/
+other_includes/
+example_lighttpd.conf
+LICENSE
+mkdist.sh
+README
+server.log
+server_conf.py
