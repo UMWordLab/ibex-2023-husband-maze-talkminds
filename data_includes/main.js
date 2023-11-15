@@ -2,7 +2,7 @@
 // adapted from Husband 2022
 
 PennController.ResetPrefix(null); // Shorten command names (keep this line here))
-//PennController.DebugOff();
+PennController.DebugOff();
 
 var shuffleSequence = seq("setup", "intro",
                         "startpractice",
